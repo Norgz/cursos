@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(17, 17, 17);
+    height: auto;
+    padding: 50px;
+    font-size: 20px;
+    font-family: 'filson', sans-serif
+}
+
+span {
+    color: rgb(245, 144, 11);
+}
+
+p {
+    color: rgb(255, 255, 255);
+}
+
+a {
+    color: rgb(180, 10, 10);
+    font-size: 20px;
+    text-decoration: none;
+}
+
+ol {
+    list-style-type: none;
+}
